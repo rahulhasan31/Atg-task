@@ -1,7 +1,6 @@
 import { useContext } from "react";
 import { useState } from "react";
 import { AiOutlineSearch } from "react-icons/ai";
-import { Link } from "react-router-dom";
 import { AuthContext } from "../Auth/AuthProvider";
 import LoginModal from "../page/Login";
 import Signup from "../page/Signup";
